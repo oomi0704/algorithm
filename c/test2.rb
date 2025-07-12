@@ -18,3 +18,5 @@ def test2
 end
 
 test2
+
+テスト
