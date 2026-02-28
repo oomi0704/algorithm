@@ -1,3 +1,4 @@
 def setuyaku()
+    fdasadf
     
 end
