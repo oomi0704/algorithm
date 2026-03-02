@@ -21,6 +21,3 @@ else
     a << gets.to_i
   end
 end
-
-count = a.count(k)
-puts count
