@@ -3,5 +3,4 @@ a = []
 n.times do
   a << gets.split.map(&:to_i)
 end
-
-puts a.flatten.sum-35
+puts a.flatten.sum
