@@ -1,4 +1,4 @@
-def chapter04(array)
+def chapter04『(array)
     # コードを記述
     array.each do |i|
         if i%5 == 0
